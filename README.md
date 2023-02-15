@@ -2,10 +2,9 @@
 
 <### Hi there 👋,I'm Mrkiran18
 #### I am Looking for an Data Scientist
-I'm Kiran Completed B.E in Electronics and Communication from VTU Belgavi on 2022 
-I had worked on the Project called  "DESIGN AND ANALYSIS OF MICROSTRIP PATCH 
-ANTENNA LOADED WITH DOUBLE SWASTIK”
-I had done my Internship on "IOT and Embeded System"
+## I'm Kiran Completed B.E in Electronics and Communication from VTU Belgavi on 2022 
+## I had worked on the Project called  "DESIGN AND ANALYSIS OF MICROSTRIP PATCH ANTENNA LOADED WITH DOUBLE SWASTIK”
+## I had done my Internship on "IOT and Embeded System"
 
 ![I am Looking for an Data Scientist](https://www.linkedin.com/in/kiran-k-budihal-5b888923)
 
