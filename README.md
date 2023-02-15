@@ -9,11 +9,10 @@ I had done my Internship on "IOT and Embeded System"
 
 ![I am Looking for an Data Scientist](https://www.linkedin.com/in/kiran-k-budihal-5b888923)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python/Sql/Power Bi
 
-###Skills and Experience
+### Skills and Experience
 
 * Machine learning
 * Deep learning
@@ -21,7 +20,13 @@ Skills: Python/Sql/Power Bi
 * Jupyter Notebook
 
 - 🌱 I had completed "Data Science Master's Program"
-
+      
+      
+      
+ ### Certifications
+ * Completed "Data-Driven Decisions with Power BI" from Coursera
+ * Completed "Python for Data Science" from Great Learning
+ * Completed "Data Science Master's Program" from Besant Technologies Bengalore
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kiran K Budihal/)  
 
