@@ -24,9 +24,10 @@ Skills: Python/Sql/Power Bi
       
       
  ### Certifications
+ * Completed "Data Science Master's Program" from Besant Technologies Bengalore
  * Completed "Data-Driven Decisions with Power BI" from Coursera
  * Completed "Python for Data Science" from Great Learning
- * Completed "Data Science Master's Program" from Besant Technologies Bengalore
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kiran K Budihal/)  
 
